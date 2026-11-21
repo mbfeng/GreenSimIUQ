@@ -1,5 +1,7 @@
 # Efficient Input Uncertainty Quantification via Green Simulation Using Sample Path Likelihood Ratios — code
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24411113.svg)](https://doi.org/10.5281/zenodo.24411113)
+
 Code that reproduces Table 1 (Section 5) of
 
 > Feng, B. M., & Song, E. (2019). Efficient input uncertainty quantification via green simulation
