@@ -1,0 +1,43 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below (preferred-citation)."
+title: "GreenSimIUQ: code for Efficient Input Uncertainty Quantification via Green Simulation Using Sample Path Likelihood Ratios"
+type: software
+authors:
+  - given-names: Ben Mingbin
+    family-names: Feng
+  - given-names: Eunhye
+    family-names: Song
+version: 1.0.0
+date-released: "2026-11-20"
+license: MIT
+repository-code: "https://github.com/mbfeng/GreenSimIUQ"
+preferred-citation:
+  type: conference-paper
+  title: "Efficient Input Uncertainty Quantification via Green Simulation Using Sample Path Likelihood Ratios"
+  authors:
+    - given-names: Ben Mingbin
+      family-names: Feng
+    - given-names: Eunhye
+      family-names: Song
+  collection-title: "Proceedings of the 2019 Winter Simulation Conference"
+  editors:
+    - given-names: N.
+      family-names: Mustafee
+    - given-names: K.-H. G.
+      family-names: Bae
+    - given-names: S.
+      family-names: Lazarova-Molnar
+    - given-names: M.
+      family-names: Rabe
+    - given-names: C.
+      family-names: Szabo
+    - given-names: P.
+      family-names: Haas
+    - given-names: Y.-J.
+      family-names: Son
+  publisher:
+    name: "IEEE"
+  start: 3693
+  end: 3704
+  year: 2019
+  doi: "10.1109/WSC40007.2019.9004835"
