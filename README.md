@@ -67,7 +67,6 @@ results/rerun/             per-macro results of the November 2026 rerun
 tests/run_tests.R          the rewritten functions against the 2019 code (original_2019/)
 original_2019/             the code of June 2019 that implemented the methods (reference)
 verify/                    the paper's printed values and the verification report
-tables/                    output
 ```
 
 ## Code notation → paper notation
